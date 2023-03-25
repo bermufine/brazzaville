@@ -3,11 +3,9 @@
 
 {"descriptionBra":"Tele Congo est une chaine nationale du congo brazza en diffusant des emissions, informations, sports, theatres, musique et autres....","sourceBra":["http://51.210.1.13:18000/telecongo/hls/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":" https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg ","titleBra":"TELE CONGO TV"},
 
-{"descriptionBra":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains....","sourceBra":["https://helga.iptv2022.com/Obosso_Tv/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titleBra":"OBOSSO / LIEN 1"},
+{"descriptionBra":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains....","sourceBra":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titleBra":"OBOSSO TV"},
 
 {"descriptionBra":"Tele Congo est la premiere chaine nationale de la Republique du Congo qui emette a Brazzaville en diffusant des informations et autres....","sourceBra":["http://51.210.1.13:18000/telecongo/hls/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TELE CONGO TV"},
-
-{"descriptionBra":"Obosso TV est une chaîne du congo brazza en diffusant des emusiques Congolaise et africains....","sourceBra":["https://obossobroadcast.fr/otv/winmedia/playliste.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titleBra":"OBOSSO / LIEN 2"},
 
 {"descriptionBra":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe","sourceBra":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titleBra":"C-DIRECT TV"},
 
