@@ -1,5 +1,7 @@
 # brazzaville
-{"categorieBra":[{"name":"Movies","videos":[{"descriptionBra":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe","sourceBra":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titleBra":"C-DIRECT TV"},
+{"categorieBra":[{"name":"Movies","videos":[{"descriptionBra":"Tele Congo est une chaine nationale du congo brazza en diffusant des emissions, informations, sports, theatres, musique et autres....","sourceBra":["http://69.64.57.208/telecongo/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":" https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg ","titleBra":"TELE CONGO TV"},
+
+{"descriptionBra":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe","sourceBra":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titleBra":"C-DIRECT TV"},
 
 {"descriptionBra":"DBN TV est la chaine consacrée à la musique d'Afrique et internationale....","sourceBra":["https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjUzMDQ5NDRf/dbm","titleBra":"DBN TV"},
 
@@ -8,8 +10,6 @@
 {"descriptionBra":"Vox Of Africa est la chaine des americains qui emette a Brazzaville en diffusant des informations et autres....","sourceBra":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titleBra":"VOX OF AFRICA TV"},
 
 {"descriptionBra":"NTI Télévision est un média généraliste émettant a Pointe-Noire (Congo Brazzaville) en diffusant des emissions, informations, sports, theatres, musique et autres....","sourceBra":["https://helga.iptv2022.com/NTI_Television/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yODQ2NzY3NDFf/NTI.png","titleBra":"NTI TV"},
-
-{"descriptionBra":"Tele Congo est une chaine nationale du congo brazza en diffusant des emissions, informations, sports, theatres, musique et autres....","sourceBra":["http://51.210.1.13:18000/telecongo/hls/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":" https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg ","titleBra":"TELE CONGO TV"},
 
 {"descriptionBra":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains....","sourceBra":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titleBra":"OBOSSO TV"},
 
