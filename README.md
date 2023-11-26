@@ -27,7 +27,9 @@
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a024/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg","titleBra":"AFRICA NEWS"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02b/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titleBra":"DBN"}]}]}
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02b/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titleBra":"DBN"},
+
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titleBra":"DBN"}]}]}
 
 
 
@@ -48,5 +50,7 @@
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02q/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"B-ONE"},
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02p/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TELE 50"}
+
+{"descriptions":"TPT TV ","source":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT TV"},
 
 {"descriptionBra":"Tele Congo est une chaine nationale du congo brazza en diffusant des emissions, informations, sports, theatres, musique et autres....","sourceBra":["http://51.210.1.13:18000/telecongo/hls/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TELE CONGO"},
