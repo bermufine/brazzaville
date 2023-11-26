@@ -9,6 +9,8 @@
 
 {"descriptionBra":"Africanews est une chaine des informations Africaines.","sourceBra":["https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg","titleBra":"AFRICA NEWS"},
 
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TPT PLUS"},
+
 {"descriptionBra":"Vox Of Africa est la chaine des americains qui emette a Brazzaville en diffusant des informations et autres....","sourceBra":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titleBra":"VOX OF AFRICA TV"},
 
 {"descriptionBra":"NTI Télévision est un média généraliste émettant a Pointe-Noire (Congo Brazzaville) en diffusant des emissions, informations, sports, theatres, musique et autres....","sourceBra":["https://helga.iptv2022.com/NTI_Television/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yODQ2NzY3NDFf/NTI.png","titleBra":"NTI TV"},
@@ -23,9 +25,9 @@
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a029/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"DRTV SPORTS"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a024/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"AFRICA NEWS"},
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a024/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg","titleBra":"AFRICA NEWS"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02b/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"DBN"}]}]}
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02b/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjUzMDQ5NDRf/dbm","titleBra":"DBN"}]}]}
 
 
 
@@ -34,8 +36,6 @@
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a036/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"PSTV"},
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"CRTV SPORTS"},
-
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TPT PLUS"},
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a01x/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"CANAL 2"},
 
