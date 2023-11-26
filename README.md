@@ -21,7 +21,7 @@
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02a/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yODQ2NzY3NDFf/NTI.png","titleBra":"NTI"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a01w/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"FRANCE 24"},
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a01w/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTY2Mjg5MzBf/france24.jpeg","titleBra":"FRANCE 24"},
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a029/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"DRTV SPORTS"},
 
