@@ -3,7 +3,7 @@
 
 {"descriptionBra":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe","sourceBra":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titleBra":"C-DIRECT TV"},
 
-{"descriptionBra":"DBN TV est la chaine consacrée à la musique d'Afrique et internationale....","sourceBra":["https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjUzMDQ5NDRf/dbm","titleBra":"DBN TV"},
+{"descriptionBra":"DBN TV est la chaine consacrée à la musique d'Afrique et internationale....","sourceBra":["https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titleBra":"DBN TV"},
 
 {"descriptionBra":"Digital Radio Télévision en sigle DRTV est la première Chaîne de Télévision privée généraliste de droit congolais, créée le 28 novembre 2002. Elle émet depuis Brazzaville, République du Congo, respectivement sur la fréquence 92.2 Mhz en version Radio et  sur le canal 332 du bouquet Canal +, sur le bouquet  de STARTIME au canal 766, sur la TNT ( Télévision Numérique Terrestre) sur la fréquence numérique 554 Mhz, canal 31, sur www.orao-play et sur d’autres plateformes numériques de diffusion (streaming (facebook)  YouTube, Site Web (www.drtv.cg) etc...).Le siège social de DRTV est sis, Case J 421 V OCH Moungali III, avenue de la morgue (face des immeubles des Italiens).Elle est née sur les cendres de Médias Visions, une cellule de production créée par Norbert DABIRA en 2002 et  propose des digi-reportages, des actualité et des émissions culturelles. Elle diffuse ses programmes au Congo et à l’international en français, lingala et kituba 24H/24. DRTV dispose d’une Station Relai à Pointe-Noire, communément appelée DRTV POINTE-NOIRE qui diffuse également ses programmes 24H/24 dans cette localité, sur la fréquence 523.25 Mhz, canal 25 en analogie et au canal numérique 525 (en cours de diffusion).","sourceBra":["http://51.254.199.122:8080/drtv/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjk5MzE1Nzhf/drtv.jpg","titleBra":"DRTV"},
 
@@ -27,7 +27,7 @@
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a024/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg","titleBra":"AFRICA NEWS"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02b/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjUzMDQ5NDRf/dbm","titleBra":"DBN"}]}]}
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02b/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titleBra":"DBN"}]}]}
 
 
 
