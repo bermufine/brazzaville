@@ -17,7 +17,7 @@
 
 {"descriptionBra":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains....","sourceBra":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titleBra":"OBOSSO TV"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02j/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"VOX"},
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02j/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTY2Mjg4NjNf/Voxtv.png","titleBra":"VOX"},
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02a/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"NTI"},
 
