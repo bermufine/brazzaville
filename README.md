@@ -9,7 +9,7 @@
 
 {"descriptionBra":"Africanews est une chaine des informations Africaines.","sourceBra":["https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg","titleBra":"AFRICA NEWS"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TPT PLUS"},
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titleBra":"TPT PLUS"},
 
 {"descriptionBra":"Vox Of Africa est la chaine des americains qui emette a Brazzaville en diffusant des informations et autres....","sourceBra":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titleBra":"VOX OF AFRICA TV"},
 
@@ -19,7 +19,7 @@
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02j/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTY2Mjg4NjNf/Voxtv.png","titleBra":"VOX"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02a/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"NTI"},
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02a/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yODQ2NzY3NDFf/NTI.png","titleBra":"NTI"},
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a01w/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"FRANCE 24"},
 
@@ -27,9 +27,7 @@
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a024/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg","titleBra":"AFRICA NEWS"},
 
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02b/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titleBra":"DBN"},
-
-{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titleBra":"DBN"}]}]}
+{"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02b/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titleBra":"DBN"}]}]}
 
 
 
