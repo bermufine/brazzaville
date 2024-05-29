@@ -15,6 +15,8 @@
 
 {"descriptionBra":"Vox Of Africa est la chaine des americains qui emette a Brazzaville en diffusant des informations et autres....","sourceBra":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titleBra":"VOX OF AFRICA TV"},
 
+{"descriptionBra":"Tele Congo est la premiere chaine nationale de la Republique du Congo qui emette a Brazzaville en diffusant des informations et autres....","sourceBra":["http://185.59.221.131:8081/live/telecongo/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TELE CONGO"},
+
 {"descriptionBra":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains....","sourceBra":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titleBra":"OBOSSO TV"}]}]}
 
 
