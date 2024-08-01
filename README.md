@@ -1,5 +1,7 @@
 # brazzaville
-{"categorieBra":[{"name":"Movies","videos":[{"descriptionBra":"Tele Congo est la premiere chaine nationale de la Republique du Congo qui emette a Brazzaville en diffusant des informations et autres....","sourceBra":["http://69.64.57.208/telecongo/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TELE CONGO"},
+{"categorieBra":[{"name":"Movies","videos":[{"descriptionBra":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","sourceBra":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titleBra":"CITE DE DAVID"},
+
+{"descriptionBra":"Tele Congo est la premiere chaine nationale de la Republique du Congo qui emette a Brazzaville en diffusant des informations et autres....","sourceBra":["http://69.64.57.208/telecongo/playlist.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"TELE CONGO"},
 
 {"descriptionBra":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe","sourceBra":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titleBra":"C-DIRECT TV"},
 
@@ -41,7 +43,7 @@
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a02a/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yODQ2NzY3NDFf/NTI.png","titleBra":"NTI"},
 
-{"descriptionBra":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","sourceBra":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titleBra":"CITE DE DAVID"},
+
 
 {"descriptionBra":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a036/index.m3u8"],"subtitleBra":"By Channel","thumbBra":"https://od.lk/s/M18yNTkxODYwMjFf/telecongo.jpg","titleBra":"PSTV"},
 
